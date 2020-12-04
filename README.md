@@ -43,6 +43,7 @@
         - [小六六学Netty系列之再遇Netty](https://juejin.im/post/6865910744739741703)
         - [小六六学Netty系列之Netty群聊](https://juejin.im/post/6868144990603640846)
         - [小六六学Netty系列之编解码器和handler的调用机制](https://juejin.im/post/6869562100495155207)
+        - [Netty实战IM（简单）](https://juejin.im/post/6896308404550270990/)
 ## Java容器
 - [史上最全的Java容器集合之入门](https://juejin.im/post/5de87a92e51d4557ec02f39d)
 - [史上最全的Java容器集合之基础数据结构（手撕链表）](https://juejin.im/post/5de8cdb5f265da33c34e2719)
@@ -72,8 +73,18 @@
 - [AQS源码解析](https://mp.weixin.qq.com/s?__biz=MjM5OTA0MjE5Mg==&mid=2247483875&idx=1&sn=3ee2a0ab18e22f23da4227be714b8601&chksm=a6c0cc1c91b7450a212af4be2100cc69e546e6b4118d04acff7f90a30238d987b387f5872b37&token=1819594580&lang=zh_CN#rd)
 - [ThreadLocal全面解析（一）](https://juejin.im/post/5f058d8ae51d4534695c2237)
 - [ThreadLocal全面解析（二）](https://juejin.im/post/5f06bd94f265da22e77c1237)
+- [带你了解了解Future和CompletableFuture](https://juejin.im/post/6893676887961403399)
 ## 项目博客
 - [[适合初中级Java程序员修炼手册从0搭建整个Web项目]（一）](https://juejin.im/post/6883005240740675591/)
+- [[适合初中级Java程序员修炼手册从0搭建整个Web项目]（二）](https://juejin.im/post/6884027512343494669)
+- [[适合初中级Java程序员修炼手册从0搭建整个Web项目]（三）](https://juejin.im/post/6885224199938867213)
+- [[适合初中级Java程序员修炼手册从0搭建整个Web项目]（四）](https://juejin.im/post/6885994038278193165)
+- [[适合初中级Java程序员修炼手册从0搭建整个Web项目]（五）](https://juejin.im/post/6888926292285063176/)
+- [[适合初中级Java程序员修炼手册从0搭建整个Web项目]（六）](https://juejin.im/post/6889627826451021831)
+- [[适合初中级Java程序员修炼手册从0搭建整个Web项目]（七）](https://juejin.im/post/6890406233061195789/)
+- [[适合初中级Java程序员修炼手册从0搭建整个Web项目]（八）](https://juejin.im/post/6891095158201745416)
+- [[适合初中级Java程序员修炼手册从0搭建整个Web项目]（九）](https://juejin.im/post/6891836391076921352/)
+- [[适合初中级Java程序员修炼手册从0搭建整个Web项目]（十）](https://juejin.im/post/6892933247657050126)
 
 ## JVM
 - [JVM从入门到入土之JVM的类加载机制](https://juejin.im/post/5e1aaf626fb9a0301d11ac8e)
@@ -88,6 +99,7 @@
 - [JVM从入门到入土之实战G1垃圾回收器(二)](https://juejin.im/post/5e367eae6fb9a02fdb5a7f79)
 ## Spring
 - [在Spring事务管理下，Synchronized为啥还线程不安全？](https://juejin.im/post/5ddc7a23e51d452331202721)
+- [一个@Async 引起的血案 ](https://juejin.cn/post/6899722409591439374/)
 - [每个Java人都必须掌握的单元测试](https://juejin.im/post/5e9017656fb9a03c2e54216d)
 - [图解Spring解决循环依赖](https://mp.weixin.qq.com/s?__biz=MjM5OTA0MjE5Mg==&mid=2247483719&idx=1&sn=3a06ef1924419d46e6b81ea86880cb2d&chksm=a6c0ccb891b745ae28ceabce1b4dc845ca89712)
 - [SpringBoot+ItextPdf生成PDF+页眉+水印](https://juejin.im/post/5ea920886fb9a0437055ad8b)
@@ -153,6 +165,7 @@
     - [小六六带大家来撸撸rocketmq(一)](https://juejin.im/post/6858440955986051079/)
     - [小六六带大家来撸撸rocketmq(二)](https://juejin.im/post/6881534240786726926/)
     - [小六六带大家来撸撸rocketmq(三)(https://juejin.im/post/6882614360020598792/)
+   
 ]
 - 分布式定时任务
     - [XXl-job 部分源码解析](https://juejin.im/post/6877366438261981191/)
@@ -170,7 +183,8 @@
 - [电子书(请勿传播)](/src/福利/电子书.md)
 - [Java小白的多啦A梦](https://juejin.im/post/5e7df09be51d4546fe26122d)
 
-
+## 项目监控
+- [SpringBoot使用Graylog日志收集](https://juejin.im/post/6886717118801248270)
 ## 工具
 - [史上最全的企业级项目管理工具之Yapi,禅道,GitLab 搭建](https://juejin.im/post/5e152d8a5188253a624a6fec)
 - [小六六的IDEA过期了，自己整一个](https://juejin.im/post/5e8c4706e51d4546b4350cf5)
@@ -183,3 +197,7 @@
 - [两数之和（力扣第二题）](https://mp.weixin.qq.com/s?__biz=MjM5OTA0MjE5Mg==&mid=2247483748&idx=1&sn=5c0f72f1bcd754e8e521b0c5c37031ff&chksm=a6c0cc9b91b7458d285023e4a74ce8dc84614ab0b831f6e625c0739c65a95c49b172dcebd273&token=1932512762&lang=zh_CN#rd)
 - [两两交换链表中的节点](https://mp.weixin.qq.com/s?__biz=MjM5OTA0MjE5Mg==&tempkey=MTA1OV8wZ0N4OTR0TTVkaXM4blg0elF1M0x2NDYtdTRuLTJFdDVEckU0clFhU1R1ZjhBb2lSZkZqZTlYTEU2T2lNZDFEYjZsNFJid3EybVI0dDBOVTVVRWlMcWltMzBaTTQ3dGV0Wl8yYllqeGlYLWc5bjZyVHlIOFZEVUY4M0NvUG5QbHZFYThnb0FjdGs2RXl3ZWh4UXg5T1M1U0hTNFlkckctVTBlZUF3fn4%3D&chksm=26c0cc8d11b7459b7d567b1ce65f21f96fb986c24e57cf39397a83a754f97855b9db362961b2&__mpa_temp_link_flag=1&token=713300618#rd)
 - [【力扣】之字母异位词分组](https://juejin.im/post/6867733354012213262)
+
+
+## 大数据
+- [聊聊大数据技术栈学习](https://mp.weixin.qq.com/s?__biz=MjM5OTA0MjE5Mg==&mid=2247484693&idx=1&sn=ddca41620b7b464c3c23b6eb60b4e96d&chksm=a6c0c8ea91b741fcda22febbb31a98c85818b907e049a73225b5b82355d663a8a7c26eee12c8&token=336671299&lang=zh_CN#rd)
