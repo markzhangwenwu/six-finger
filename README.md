@@ -44,6 +44,9 @@
         - [小六六学Netty系列之Netty群聊](https://juejin.im/post/6868144990603640846)
         - [小六六学Netty系列之编解码器和handler的调用机制](https://juejin.im/post/6869562100495155207)
         - [Netty实战IM（简单）](https://juejin.im/post/6896308404550270990/)
+    - [重学网络系列之（HTTP的前世今生）](https://juejin.cn/post/6916720549636866056)
+    - [重学网络系列之（我的名字叫IP）](https://juejin.cn/post/6917139283463634951)
+    - [重学网络系列之（Ping与网关）](https://juejin.cn/post/6917538451633995790)
 ## Java容器
 - [史上最全的Java容器集合之入门](https://juejin.im/post/5de87a92e51d4557ec02f39d)
 - [史上最全的Java容器集合之基础数据结构（手撕链表）](https://juejin.im/post/5de8cdb5f265da33c34e2719)
@@ -100,6 +103,7 @@
 ## Spring
 - [在Spring事务管理下，Synchronized为啥还线程不安全？](https://juejin.im/post/5ddc7a23e51d452331202721)
 - [一个@Async 引起的血案 ](https://juejin.cn/post/6899722409591439374/)
+- [循环依赖的种类](https://juejin.cn/post/6911692836714840077#heading-6)
 - [每个Java人都必须掌握的单元测试](https://juejin.im/post/5e9017656fb9a03c2e54216d)
 - [图解Spring解决循环依赖](https://mp.weixin.qq.com/s?__biz=MjM5OTA0MjE5Mg==&mid=2247483719&idx=1&sn=3a06ef1924419d46e6b81ea86880cb2d&chksm=a6c0ccb891b745ae28ceabce1b4dc845ca89712)
 - [SpringBoot+ItextPdf生成PDF+页眉+水印](https://juejin.im/post/5ea920886fb9a0437055ad8b)
@@ -166,13 +170,15 @@
     - [小六六带大家来撸撸rocketmq(二)](https://juejin.im/post/6881534240786726926/)
     - [小六六带大家来撸撸rocketmq(三)](https://juejin.im/post/6882614360020598792/)
 - zookeeper
-    - [小六六学Zookeeper（一）] (https://juejin.cn/post/6906282139826782215/)
-    - [小六六学Zookeeper（二）]()
+    - [小六六学Zookeeper（一）](https://juejin.cn/post/6906282139826782215/)
+    - [小六六学Zookeeper（二）](https://juejin.cn/post/6907159632330883085/)
+    - [小六六学Zookeeper（三）](https://juejin.cn/post/6907159632330883085/)
 - 分布式定时任务
     - [XXl-job 部分源码解析](https://juejin.im/post/6877366438261981191/)
 ## 调优
 - [魔兽世界之阿尔塞斯（Arthas）线上问题解决神器](https://juejin.im/post/5e92945551882573bb78fb72)
 - [读公司开发规范记录](https://juejin.im/post/5eb9fbcd6fb9a043383d7866#heading-22)
+- [Java程序员你为什么这么累](https://juejin.cn/post/6912337653467709447/)
 
 ## 代码人生
 - [[朝花夕拾，不忘初心]| 掘金年度征文 ](https://juejin.im/post/5df97b68f265da33f40f25a7)
@@ -203,3 +209,12 @@
 ## 大数据
 - [聊聊大数据技术栈学习](https://mp.weixin.qq.com/s?__biz=MjM5OTA0MjE5Mg==&mid=2247484693&idx=1&sn=ddca41620b7b464c3c23b6eb60b4e96d&chksm=a6c0c8ea91b741fcda22febbb31a98c85818b907e049a73225b5b82355d663a8a7c26eee12c8&token=336671299&lang=zh_CN#rd)
 - [交互式分析型数据库Hologres](https://juejin.cn/post/6903452075519442958/)
+- hadoop
+    - [小六六学大数据之 Hadoop(一)](https://juejin.cn/post/6909353369702252558)
+    - [小六六学大数据之 Hadoop(二)](https://juejin.cn/post/6909741852337897486/)
+    
+- hive
+    - [小六六学大数据之 Hive](https://juejin.cn/post/6911600258514419725/)
+    
+- hbase 
+    - [小六六学大数据之 Hbase](https://juejin.cn/post/6914623158263742477)
